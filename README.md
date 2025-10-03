@@ -12,7 +12,7 @@ role-based authentication and dashboards.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/yourusername/laravel-multi-auth.git
+git clone https://github.com/ZulfikarAzmi/laravel-multi-auth-template.git
 cd laravel-multi-auth
 ```
 
