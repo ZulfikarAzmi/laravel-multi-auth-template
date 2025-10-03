@@ -54,18 +54,19 @@ php artisan migrate
 
 ### 6. Serve the application
 
+``` bash
+php artisan serve
+```
+
+Now open <http://127.0.0.1:8000>
+
 ### 7. Run seeders
 
 After running the migrations, you can seed the database with default roles and an admin user:
 
 ```bash
 php artisan db:seed
-
-``` bash
-php artisan serve
 ```
-
-Now open <http://127.0.0.1:8000>
 
 ------------------------------------------------------------------------
 
